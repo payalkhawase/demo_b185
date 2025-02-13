@@ -61,4 +61,9 @@ public class EmployeeController {
 		return new ResponseEntity<Employee>(emp,HttpStatus.ACCEPTED);
 		
 	}
+	
+	public void m2() {
+		
+		
+	}
 }
